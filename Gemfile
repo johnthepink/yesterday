@@ -43,3 +43,4 @@ group :development, :test do
   gem 'spring'
 end
 
+gem 'octokit', '~> 4.0'
