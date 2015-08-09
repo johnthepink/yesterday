@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sha: MyString
+  message: MyString
+  date_committed: 2015-08-09 18:59:00
+
+two:
+  sha: MyString
+  message: MyString
+  date_committed: 2015-08-09 18:59:00

@@ -44,3 +44,4 @@ group :development, :test do
 end
 
 gem 'octokit', '~> 4.0'
+gem 'figaro'
